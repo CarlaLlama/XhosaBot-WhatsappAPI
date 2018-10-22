@@ -1,0 +1,2 @@
+feersum_nlu_api==2.0.3
+superagent==4.0.0

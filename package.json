@@ -1,0 +1,12 @@
+{
+  "name": "Twilio Whatsapp API",
+  "description": "XhosaBot service for Twilio API",
+  "dependencies": {
+    "feersum_nlu_api": "^2.0.4",
+  },
+  "devDependencies": {
+    "eslint": "^4.12.0",
+    "eslint-plugin-promise": "^3.6.0"
+  },
+  "private": true
+}
